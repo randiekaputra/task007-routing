@@ -4,7 +4,7 @@ const express = require ('express')
 // alternatif lain untuk penginstalan express = import express from 'express'
 
 const app = express()
-const port = 8000
+const port = 8080
 
 // setting view engine
 app.set(`view engine`, `hbs`)
